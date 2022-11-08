@@ -1,3 +1,3 @@
 # html-starter
-Стартовый шаблон для верстки проекта.
-### Автор: Илья Батин
+A template to start an html project easily and fast.
+### Author: Ilya Batin

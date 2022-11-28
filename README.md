@@ -1,3 +1,5 @@
 # html-starter
+____
 A template to start an html project easily and fast.
-### Author: Ilya Batin
+____
+### Author: [Ilya Batin](https://github.com/killghostbail)
